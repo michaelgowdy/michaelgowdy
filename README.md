@@ -1,6 +1,6 @@
 -  hi, i’m @michaelgowdy
 -  interested in music (guitar, synths, ableton), indie video games, writing, lists, satire
--  currently using (and learning) .NET/C#, Angular, Typescript, SQL Server, grammar of the English language
+-  currently using .NET/C#, Angular, Typescript, SQL Server, Java
 -  enjoy collaborating on anything related to music, animation, video games, helping others
 -  reach me michaelmichaelgowdy@gmail.com
 
